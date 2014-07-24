@@ -1,0 +1,15 @@
+# SBT
+target/
+
+# Play
+/logs/
+
+# Eclipse
+/.cache
+/.classpath
+/.project
+/.settings/
+/bin/
+
+# temporary until I use evolutions
+/conf/evolutions/default/
